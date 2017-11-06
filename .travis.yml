@@ -5,6 +5,3 @@ install:
   - npm install
 script: 
   - node travis-build.js
-cache:
-  directories:
-  - ./app/www/node_modules
