@@ -1,6 +1,7 @@
 const travisPing = require("travis-ping");
 
 const repos = [
+    "unitejs-examples/cordova-quickstart",
     "unitejs-examples/docker-quickstart",
     "unitejs-examples/electron-quickstart"
 ];
